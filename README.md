@@ -4,6 +4,8 @@
 
 **Description:** AI is revolutionizing enterprise operations, and the creation of intelligent, adaptable chatbots is becoming essential. This challenge, sponsored by Bear Brown & Co. in collaboration with a Stealth Start-Up, aims to develop a sophisticated chatbot using VoiceFlow, integrating with an external API. The chatbot should utilize advanced VoiceFlow features such as API integration, custom code blocks, state management, NLP, and LLM integration to create a dynamic, user-friendly conversational agent.
 
+This PDF describes the proect in more detail [https://github.com/nikbearbrown/Stealth_Start-Up_Federated_Chatbot_Development_Challenge/blob/main/Stealth_Start_Up_%20Empowering%20Decision-Making%20Through%20Unified%20AI-v7.pdf](https://github.com/nikbearbrown/Stealth_Start-Up_Federated_Chatbot_Development_Challenge/blob/main/Stealth_Start_Up_%20Empowering%20Decision-Making%20Through%20Unified%20AI-v7.pdf)  
+
 **Objective:** Develop a chatbot using VoiceFlow that:
 - **Integrates with the ServiceNow API:** Fetch real-time data from a third-party service using API integration.
 - **Utilizes Custom Code Blocks:** Use JavaScript within VoiceFlow for complex operations, data manipulation, and extending capabilities beyond built-in functions.
